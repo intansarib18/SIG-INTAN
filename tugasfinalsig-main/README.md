@@ -1,6 +1,6 @@
 # Peta Kecamatan Banggae
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imbarinformatika-tugasfinalsig-app-kpwddt.streamlit.app/)  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://intan-tugasfinalsig-app-kpwddt.streamlit.app/)  
 
 ## Deskripsi
 web berfungsi untuk menampilkan peta interaktif Kecamatan Banggae menggunakan data geospasial. didalam web ini Pengguna dapat melihat batas wilayah kecamatan dan melakukan zoom serta navigasi pada peta.
